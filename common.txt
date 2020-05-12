@@ -1,3 +1,5 @@
 firstCommon(){
 	first line common;
 }
+manojCommon(){
+}
